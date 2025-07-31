@@ -1231,7 +1231,7 @@ Cancer prediction
         "\n",
         "**Action 2: 👁 Watch Repository and get notified of all future updates and activities in this repository.**\n",
         "\n",
-        "**[Click Here to Visit Fundamental Repository on GitHub](https://github.com/YBIFoundation/Fundamentals)**"
+        "**[Click Here to Visit Fundamental Repository on GitHub](https://github.com/77341122/Fundamentals)**"
       ],
       "metadata": {
         "id": "REsvrZJnzLsv"
