@@ -60,8 +60,7 @@ Cancer prediction
     },
     {
       "cell_type": "markdown",
-      "source": [
-        "**[Watch Video Tutorial](https://www.youtube.com/c/YBIFoundation?sub_confirmation=1)**"
+      
       ],
       "metadata": {
         "id": "9X8h9s4Yy74k"
@@ -83,7 +82,7 @@ Cancer prediction
       "cell_type": "code",
       "source": [
         "# Step 2 : import data\n",
-        "cancer = pd.read_csv('https://github.com/YBIFoundation/Dataset/raw/main/Cancer.csv')"
+        "cancer = pd.read_csv('https://github.com/77341122/Dataset/raw/main/Cancer.csv')"
       ],
       "metadata": {
         "id": "t3-VjbbQzLsq"
@@ -1256,9 +1255,7 @@ Cancer prediction
     },
     {
       "cell_type": "markdown",
-      "source": [
-        "# **Don't Forget to Upvote NoteBook on Kaggle and Receive Updates** \n",
-        "**[Click Here to Visit Kaggle](https://www.kaggle.com/ybifoundation)**"
+      
       ],
       "metadata": {
         "id": "-anszVM5zLsv"
